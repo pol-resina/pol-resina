@@ -1,6 +1,6 @@
 # Hi there, I'm Pol Resina
 
-I'm Pol Resina, a Data Scientist with a passion for turning data into actionable insights. Currently I'm studying Data Science & Engineering Bachelor's Degree at the Universitat Politècnica de Catalunya (UPC). 
+I'm Pol Resina, a Data Scientist with a passion for turning data into actionable insights. Currently, I'm studying Data Science & Engineering Bachelor's Degree at the Universitat Politècnica de Catalunya (UPC). 
 
 Here are a few things I've been working on:
 
@@ -10,8 +10,7 @@ I've been working on a project with the UPC Formula Student Driverless team. We 
 
 1. **[Cone Detection System]((https://github.com/pol-resina/Cone-Detection-System))**
 
-**Overview**: Ros package that detects cones in the track using a LiDAR. It's based on DBSCAN clustering algorithm to group the points that belong to the same cone. What's more, few optimizations have been added to improve driverless car's performance. The system is able to detect the cones and publish the position of each cone in the track. Compensation for the raw pointcloud data has been added to improve the detection of the cones.
-Be aware to choose the correct branch in case you desire to see the code as the master branch is empty.
+**Overview**: Ros package that detects cones in the track using a LiDAR. It's based on DBSCAN clustering algorithm to group the points that belong to the same cone. What's more, few optimizations have been added to improve driverless car's performance. The system is able to detect the cones and publish the position of each cone in the track. Compensation for the raw pointcloud data has been added to improve the detection of the cones. Please ensure you select the correct branch if you wish to view the code, as the master branch is empty.
 
 **Tech used**: C++, ROS, PCL
 
