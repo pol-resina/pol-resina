@@ -8,7 +8,7 @@ Here are a few things I've been working on:
 
 I've been working on a project with the UPC Formula Student Driverless team. We are developing a racing car to compete in the Formula Student competition. The car must be able to drive autonomously and complete a series of challenges. I'm in charge of the perception department: Using a LiDAR we have to make sure the car can detect cones on the track and immediately get the track limits. Click [here](https://www.youtube.com/watch?v=UDVeT7veqL8) to see the perception pipeline in action.
 
-1. **[Cone Detection System]((https://github.com/pol-resina/Cone-Detection-System))**
+1. **[Cone Detection System](https://github.com/pol-resina/Cone-Detection-System/tree/devel-oscar-limoComp-sub)**
 
 **Overview**: Ros package that detects cones in the track using a LiDAR. It's based on DBSCAN clustering algorithm to group the points that belong to the same cone. What's more, few optimizations have been added to improve driverless car's performance. The system is able to detect the cones and publish the position of each cone in the track. Compensation for the raw pointcloud data has been added to improve the detection of the cones. Please ensure you select the correct branch if you wish to view the code, as the master branch is empty.
 
