@@ -1,5 +1,3 @@
-# Hi there, I'm Pol Resina
-
 I'm Pol Resina, a Data Scientist with a passion for turning data into actionable insights. Currently, I'm studying Data Science & Engineering Bachelor's Degree at the Universitat Politècnica de Catalunya (UPC). 
 
 Here are a few things I've been working on:
