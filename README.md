@@ -1,13 +1,26 @@
 # Pol Resina
 
-![My GIF](/hello.gif)
+![My GIF](https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwNzY2OTQsIm5iZiI6MTc0NzA3NjM5NCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTEyVDE4NTk1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwN2Y4YTcxMzA2MTY0ZmE2Y2ZkZWMyMTcxYjQ2YjM4MjUxNjEwODI5NTdmZTYzNTA3MDBjYzdkZDhkNjJkNDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.K6alb34O-fD2kUH4A-9CKRPcHw45QDVstHwTONqnwyE)
 
-## 👋 About Me
-I'm Pol Resina, a Data Scientist with a passion for turning data into actionable insights. Currently, I'm studying Data Science & Engineering Bachelor's Degree at the Universitat Politècnica de Catalunya (UPC). 
+## 😀 About Me
+I am a Data Science \& Engineering student with a focus on Software Engineering, Data Science and Machine Learning. I love getting involved in projects I feel are making a positive societal impact.
 
-Here are a few things I've been working on:
+## 🎓 Education
+- **Bachelor's Degree in Data Science & Engineering**  
+  Universitat Politècnica de Catalunya (UPC Barcelona)  
+  Expected Graduation: June 2026
 
- ## 🏎️Formula Student🏎️
+## 💻 Technical Skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![PCL](https://img.shields.io/badge/pcl-%23007ACC.svg?style=for-the-badge&logo=ghost&logoColor=white)
+
+## 🚀 Projects
+
+### 🏎️Formula Student🏎️
 
 I've been working on a project with the UPC Formula Student Driverless team. We are developing a racing car to compete in the Formula Student competition. The car must be able to drive autonomously and complete a series of challenges. I'm in charge of the perception department: Using a LiDAR we have to make sure the car can detect cones on the track and immediately get the track limits. Click [here](https://www.youtube.com/watch?v=UDVeT7veqL8) to see the perception pipeline in action.
 
@@ -19,7 +32,7 @@ I've been working on a project with the UPC Formula Student Driverless team. We 
 
 **Keywords:** Machine Learning, Optimizatinos, PCL, clustering, DBSCAN, 
 
-## 🙋 Personal Projects
+### 🙋 Personal Projects
 
 1. **[US-CAR ACCIDENTS](https://github.com/pol-resina/US-Accidents)** 
 
@@ -70,12 +83,6 @@ I've been working on a project with the UPC Formula Student Driverless team. We 
 **Tech used:** Python, SQLite, Tkinter
 
 **Keywords:** Data Security, GUI
-
-## 🛠️ Skills
-- **Programming Languages**: Python, R, SQL, C++, C, Java, Matlab, Shell
-- **Data Analysis Libraries**: Pandas, NumPy, Polars
-- **Data Visualization Tools**: Matplotlib, Seaborn
-- **Database Management**: MySQL, SQLite, DBeaver
 - **Machine Learning**: Pytorch, TensorFlow, Scikit-learn
 
 
